@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Robot-Searching/static/css/main.6c820b25.chunk.css",
+    "main.js": "/Robot-Searching/static/js/main.11913f22.chunk.js",
+    "main.js.map": "/Robot-Searching/static/js/main.11913f22.chunk.js.map",
+    "runtime-main.js": "/Robot-Searching/static/js/runtime-main.caa75276.js",
+    "runtime-main.js.map": "/Robot-Searching/static/js/runtime-main.caa75276.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Robot-Searching/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.52671546.chunk.js": "/Robot-Searching/static/js/2.52671546.chunk.js",
+    "static/js/2.52671546.chunk.js.map": "/Robot-Searching/static/js/2.52671546.chunk.js.map",
+    "index.html": "/Robot-Searching/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Robot-Searching/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.6c820b25.chunk.css.map": "/Robot-Searching/static/css/main.6c820b25.chunk.css.map",
+    "static/js/2.52671546.chunk.js.LICENSE.txt": "/Robot-Searching/static/js/2.52671546.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robot-Searching/static/media/Monoton-Regular.19a7118a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caa75276.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.52671546.chunk.js",
+    "static/css/main.6c820b25.chunk.css",
+    "static/js/main.11913f22.chunk.js"
+  ]
+}
