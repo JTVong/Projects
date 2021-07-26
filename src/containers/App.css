@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Monoton-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Monoton-Regular"), url("../components/Monoton-Regular.ttf");
+}
+
+h1 {
+  font-family: "Monoton-Regular";
+  font-size: 6rem;
+  text-shadow: rgb(235, 237, 226) 20px 20px 75px;
+  color: rgb(52, 31, 111);
+}
